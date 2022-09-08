@@ -1,0 +1,20 @@
+.footer {
+    width: 100%;
+    height: auto;
+    background-color: #121619;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .socialMedia svg {
+    font-size: 4rem;
+    margin: 2rem;
+    cursor: pointer;
+}
+
+p {
+    font-size: 1.6rem;
+}
