@@ -30,6 +30,11 @@
     text-decoration: none;
     margin: 0 2rem;
     font-size: 2rem;
+    border-radius: 5px;
+}
+.navbar .rightSide a:hover {
+    background-color: var(--text-color);
+    color: rgba(255, 0, 0, 0.497);
 }
 
 .rightSide svg {
@@ -77,6 +82,12 @@
         padding: 10px;
         text-decoration: none;
         margin: 1.2rem 0;
+        width: inherit;
+        text-align: center;
+    }
+    .list a:hover {
+        background-color: var(--text-color);
+        color: rgba(255, 0, 0, 0.497);
     }
 }
 

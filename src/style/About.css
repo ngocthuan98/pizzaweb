@@ -46,6 +46,18 @@
     .aboutUs p {
         font-size: 1.8rem;
     }
+    .aboutBottom {
+        height: 100%;
+        display: inline-block;
+    }
+
+    .aboutUs {
+        width: 100%;
+    }
+
+    .making-pizza {
+        float: left;
+    }
     .aboutTop {
         display: none;
     }
